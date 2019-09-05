@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 4.0.0 - September 5, 2019
+
+- WIP Laravel 6 comptability
+
 ## 3.5.0 - July 22, 2017
 
 - Added support for auto-discovery in Laravel 5.5 (#184)
@@ -93,7 +97,7 @@
 - Added support for re-requests and re-authentications.
 - Removed `LaravelFacebookSdkException` to let all the native PHP SDK's exceptions fall through.
 - Removed all the weird authentication crap that didn't make any sense.
-- Bound the package to the IoC container as `SammyK\LaravelFacebookSdk\LaravelFacebookSdk` instead of the old `facebook-query-builder`.
+- Bound the package to the IoC container as `Scottybo\LaravelFacebookSdk\LaravelFacebookSdk` instead of the old `facebook-query-builder`.
 
 
 ## 1.1.1 - December 11, 2014

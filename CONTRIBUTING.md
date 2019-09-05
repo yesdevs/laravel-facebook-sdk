@@ -2,7 +2,7 @@
 
 Contributions are **welcome** and will be fully **credited**.
 
-We accept contributions via Pull Requests on [Github](https://github.com/SammyK/LaravelFacebookSdk).
+We accept contributions via Pull Requests on [Github](https://github.com/scottybo/laravel-facebook-sdk).
 
 
 ## Pull Requests
